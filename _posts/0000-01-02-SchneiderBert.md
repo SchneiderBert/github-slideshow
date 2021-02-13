@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Lets *git* this show on the road!
 Use the left arrow to go back!
